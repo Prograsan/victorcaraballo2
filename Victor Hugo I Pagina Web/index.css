@@ -1,0 +1,176 @@
+.bsobremi {
+
+    border: 1px solid black;
+    background: cadetblue;
+    margin-bottom: 1%;
+
+}
+
+#verificado {
+
+    width: 35px;
+    margin-bottom: -0.7%;
+
+}
+
+.bsobremi h1 {
+
+    font-family: cursive;
+    margin-left: 3%;
+
+}
+
+
+.div1 {
+
+    border: 0px solid black;
+    width: 55%;
+
+}
+
+.sobremi {
+
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#div_contenedor {
+
+    padding-bottom: 3%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    overflow: hidden
+
+}
+
+.text1 {
+
+    border: 1px solid black;
+    width: 65%;
+    padding-bottom: 3%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    margin-bottom: 1%;
+    float: left;
+
+}
+
+.text1 h2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.fecha {
+
+    border: 1px solid black;
+    width: 20%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 10%;
+    margin-left: 1%;
+    float: left;
+
+}
+
+.fecha h3 {
+
+    margin-left: 50%;
+
+}
+
+.multimedia {
+
+    width: 15%;
+    margin-top: 1%;
+    padding-right: 7%;
+    float: left;
+    margin-left: 5%;
+
+}
+
+.multimedia img {
+
+    width: 145%;
+
+}
+
+#informaciondd {
+
+    text-align: center;
+    background: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#inf1 {
+
+    border: 1px solid black;
+    margin-bottom: 1%;
+    background: white;
+    width: 70%;
+    float: left;
+
+}
+
+#inf1 h2 {
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#inf1 #tex1 {
+
+    margin-left: 2%;
+    margin-right: 1%;
+
+}
+
+.img {
+
+    width: 28%;
+    height: 170px;
+    float: left;
+    margin-left: 1%;
+
+}
+
+#div_contenedor2 {
+
+    overflow: hidden
+
+}
+
+#comentarios {
+
+    text-align: center;
+    background: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.nombre {
+
+    display: block;
+    margin-bottom: 1%;
+
+}
+
+footer {
+
+    margin-top: 2%;
+    border: 1px solid black;
+    padding-top: -0,1%;
+    text-align: center;
+    background: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    clear: both;
+
+}   
