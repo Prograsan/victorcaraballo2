@@ -1,2 +1,0 @@
-# VictorC
-Mi Pagina Personal
